@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallelism.Image.Download.Interview", "Parallelism.Image.Download.Interview\Parallelism.Image.Download.Interview.csproj", "{9838D797-8955-4AD9-A9DC-0D5DA8BAD788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9838D797-8955-4AD9-A9DC-0D5DA8BAD788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9838D797-8955-4AD9-A9DC-0D5DA8BAD788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9838D797-8955-4AD9-A9DC-0D5DA8BAD788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9838D797-8955-4AD9-A9DC-0D5DA8BAD788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6798D2-26E4-406D-ABDB-7584AC717DE5}
+	EndGlobalSection
+EndGlobal
